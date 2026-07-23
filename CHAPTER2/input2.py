@@ -1,0 +1,5 @@
+a = int(input("Enter the First number : "))
+b = int(input("Enter the Second90 number : "))
+print("The First number is ", a)
+print("The Second90 number is ", b)
+print("The sum of First and Second90 is : ", a+b)
